@@ -1,0 +1,18 @@
+.nav-bar {
+    background-color: #F55A5A;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    font-size: 14pt;
+    font-weight:500;
+
+}
+
+.logo {
+    width: 24px;
+}
+
+.nav-bar > * {
+    padding: 5px;
+}
